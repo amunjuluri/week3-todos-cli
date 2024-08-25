@@ -1,0 +1,19 @@
+{
+  "categories": {
+    "tes": [
+      {
+        "task": "nooooooo asof nmasdplf m",
+        "done": true
+      },
+      {
+        "task": "please work now",
+        "done": true
+      }
+    ],
+    "personal": [
+      {
+        "task": "Buy groceries"
+      }
+    ]
+  }
+}
